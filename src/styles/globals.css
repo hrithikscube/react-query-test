@@ -6,5 +6,9 @@ button {
 
 
 .primary-button {
-    @apply py-2 px-4 bg-blue-600 text-sm text-white w-full
+    @apply py-2 px-4 h-[42px] bg-blue-600 text-sm text-white w-full
+}
+
+.text-input {
+    @apply p-2 border border-[#80808050] text-sm h-[42px]
 }
